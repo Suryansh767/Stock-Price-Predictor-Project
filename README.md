@@ -36,12 +36,6 @@ In this section, we present the results of our stock market prediction experimen
 ## Contributing 🤝
 We welcome contributions to enhance the project and make it even more effective. If you have any suggestions, bug fixes, or new features to add, please submit a pull request. We appreciate your contributions!
 
-## License 🔐
-This project is licensed under the [MIT License](LICENSE).
 
-## Contact 📩
-For any questions or inquiries, feel free to reach out to us:
-- **Email:** adarsh36jnp@gmail.com
-- **LinkedIn:** [Adarsh Kumar Singh](https://www.linkedin.com/in/adarsh-kumar-singh-3aa172201/)
 
 Let's make accurate stock market predictions together!
